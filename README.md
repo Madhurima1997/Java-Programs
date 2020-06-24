@@ -16,3 +16,9 @@ First delete "eee" and "ccc", get "ddbbbdaa"<br />
 Then delete "bbb", get "dddaa"<br />
 Finally delete "ddd", get "aa"<br />
 [Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/k-duplicate-remove.java)<br />
+
+Find the length of longest increasing subsequence using Dynamic Programming approach<br />
+<b>Input:</b> [10,9,2,5,3,7,101,18] <br />
+<b>Output:</b> 4 <br />
+Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4. <br />
+[Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/LIS.java)
