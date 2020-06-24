@@ -17,8 +17,11 @@ Then delete "bbb", get "dddaa"<br />
 Finally delete "ddd", get "aa"<br />
 [Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/k-duplicate-remove.java)<br />
 
-Find the length of longest increasing subsequence using Dynamic Programming approach<br />
+Find the length of longest increasing subsequence using Dynamic Programming approach(Question from Leetcode)<br />
 <b>Input:</b> [10,9,2,5,3,7,101,18] <br />
 <b>Output:</b> 4 <br />
 Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4. <br />
-[Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/LIS.java)
+[Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/LIS.java)<br />
+
+Given an array nums and a value val, remove all instances of that value in-place and return the new length. Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.(Question from Leetcode) <br />
+[Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/remove-ele.java)<br />
