@@ -25,3 +25,6 @@ Explanation: The longest increasing subsequence is [2,3,7,101], therefore the le
 
 Given an array nums and a value val, remove all instances of that value in-place and return the new length. Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.(Question from Leetcode) <br />
 [Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/remove-ele.java)<br />
+
+Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.<br />
+[Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/trap-rain.java)
