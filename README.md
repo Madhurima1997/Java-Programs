@@ -28,3 +28,6 @@ Given an array nums and a value val, remove all instances of that value in-place
 
 Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.<br />
 [Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/trap-rain.java)
+
+Given a binary tree, write a function to get the maximum width of the given tree.<br />
+[Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/binarytree_width.java)
