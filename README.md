@@ -34,3 +34,6 @@ Given a binary tree, write a function to get the maximum width of the given tree
 
 Given a binary tree, you need to compute the length of the diameter of the tree. The diameter of a binary tree is the length of the longest path between any two nodes in a tree. This path may or may not pass through the root.(Leetcode question 543) <br />
 [Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/diameterofBinaryTree.java)
+
+The count-and-say sequence is the sequence of integers with the first five terms as following:(Leetcode question)<br />
+[Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/count_n_say.java)
