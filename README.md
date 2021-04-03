@@ -37,3 +37,6 @@ Given a binary tree, you need to compute the length of the diameter of the tree.
 
 The count-and-say sequence is the sequence of integers with the first five terms as following:(Leetcode question)<br />
 [Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/count_n_say.java)
+
+Longest Valid Parenthesis<br />
+[Solution](https://github.com/Madhurima1997/Java-Programs/blob/master/Some%20April%20Leetcode%20Challenge%20Codes/Longest%20Valid%20Parenthesis.java)
